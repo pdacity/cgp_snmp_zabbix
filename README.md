@@ -1,5 +1,7 @@
 # Zabbix SNMP Template for CommuniGate
 
+> версия 1.1 - (20170807)
+
 > для Zabbix 3.x
 
 > zabbix-agent должен быть установлен на наблюдаемом узле
