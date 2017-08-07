@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.2</version>
-    <date>2017-08-07T09:44:52Z</date>
+    <date>2017-08-07T11:21:22Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -11,8 +11,11 @@
         <template>
             <template>Template CGP SNMP</template>
             <name>Шаблон CGP SNMP</name>
-            <description>Статистика CGP (встроенные метрики)&#13;
+            <description>Версия 1.1 - (20170807)&#13;
+Автор: Дмитрий Малинин&#13;
+Все вопросы и пожелания на dmitry@malinin.com&#13;
 &#13;
+Статистика CGP (встроенные метрики)&#13;
 Макрос {$SNMP_COMMUNITY} добавляется в каждый хост</description>
             <groups>
                 <group>
