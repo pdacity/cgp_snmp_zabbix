@@ -34,6 +34,8 @@
 * CGP SMTP - график использования  SMTP протокола
 * CGP TCP Traffic - график общего TCP тафика узла
 
+![Host](https://github.com/pdacity/cgp_snmp_zabbix/blob/master/CGP_sessions.png)
+
 ### Добавление узла
 
 Необходимо задать SNMP community в макросах  {$SNMP_COMMUNITY} = youcommunity (пароль  SNMP в терминах CGP) 
