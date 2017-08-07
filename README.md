@@ -36,6 +36,8 @@
 
 ![Host](https://github.com/pdacity/cgp_snmp_zabbix/blob/master/CGP_sessions.png)
 
+![Host](https://github.com/pdacity/cgp_snmp_zabbix/blob/master/CGP_SMTP.png)
+
 ### Добавление узла
 
 Необходимо задать SNMP community в макросах  {$SNMP_COMMUNITY} = youcommunity (пароль  SNMP в терминах CGP) 
